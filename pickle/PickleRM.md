@@ -39,6 +39,7 @@ Procesando tarea número: 1
 Procesando tarea número: 2
 ^C
 [!] Interrupción detectada. Guardando...
+<img width="697" height="413" alt="Captura de pantalla 2026-02-16 085152" src="https://github.com/user-attachments/assets/7d9db2fc-cfd1-4264-b7c4-7ca113df54e6" />
 
 **Segunda ejecución (Restauración):**
 ```text
@@ -46,6 +47,7 @@ Procesando tarea número: 2
 --- Iniciando/Retomando ejecución en el paso: 2 ---
 Procesando tarea número: 3
 ...
+<img width="707" height="394" alt="Captura de pantalla 2026-02-16 085448" src="https://github.com/user-attachments/assets/c47bc771-e47d-473a-9b4a-20ca602cbd05" />
 
 ## ⚠️ Advertencia de Seguridad
 

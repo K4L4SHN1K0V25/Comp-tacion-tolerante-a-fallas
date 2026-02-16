@@ -32,7 +32,6 @@ Este proyecto es una demostración práctica de la técnica de **Checkpointing**
 ### Ejemplo de Salida
 
 **Primera ejecución:**
-```text
 [*] No hay checkpoint previo. Iniciando desde cero.
 --- Iniciando/Retomando ejecución en el paso: 0 ---
 Procesando tarea número: 1
@@ -42,7 +41,6 @@ Procesando tarea número: 2
 <img width="697" height="413" alt="Captura de pantalla 2026-02-16 085152" src="https://github.com/user-attachments/assets/7d9db2fc-cfd1-4264-b7c4-7ca113df54e6" />
 
 **Segunda ejecución (Restauración):**
-```text
 [!] Encontrado archivo de checkpoint. Restaurando estado...
 --- Iniciando/Retomando ejecución en el paso: 2 ---
 Procesando tarea número: 3
